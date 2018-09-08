@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="binoo.code.kit.src.fragments.GameChooseLoad">
+
+    <Button
+        android:id="@+id/buttonNew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="새로하기" />
+
+    <Button
+        android:id="@+id/buttonLoad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="이어하기" />
+
+    <Button
+        android:id="@+id/buttonMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="돌아가기" />
+</LinearLayout>
