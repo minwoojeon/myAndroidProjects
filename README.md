@@ -1,0 +1,2 @@
+# myAndroidProjects
+Simple android project
