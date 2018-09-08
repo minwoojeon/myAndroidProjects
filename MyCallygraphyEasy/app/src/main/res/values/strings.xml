@@ -1,0 +1,61 @@
+<resources>
+    <!-- 어플 정보 -->
+    <string name="app_name">일상의 한마디 (미안해 고마워 그리고 사랑해) - 손쉬운 캘리그라피</string>
+    <string name="app_version">1.1 t</string>
+    <string name="app_developer">bot-binoo (botbinoo@naver.com)</string>
+    <string name="app_develop_period">2017.12.31~2018.01.05 (약 5일)</string>
+    <string name="app_copyright">Copyright 2017. BinooFatory(Director : bot-binoo, botbinoo@naver.com). All rights reserved.</string>
+
+    <!-- 광고 정보 -->
+    <string name="ad_mob_app_id">ca-app-pub-9943572897242383~5995677343</string>
+    <string name="ad_mob_app_bar_dep">ca-app-pub-9943572897242383/2991908357</string>
+
+    <string name="permission_alert">어플 실행에 있어 이미지에 대한 접근 권한이 필요합니다.</string>
+    <string name="question_img_save">저장하시겠어요?</string>
+    <string name="fail_img_save">저장에 실패하였습니다.</string>
+    <string name="success_img_save">저장 하였습니다.</string>
+    <string name="question_img_share">공유하시겠어요?</string>
+    <string name="fail_img_share">공유에 실패하였습니다. 파일을 먼저 저장해주세요</string>
+    <string name="success_img_share">공유하기</string>
+    <string name="default_font">fonts/NanumPen.ttf</string>
+    <string name="default_yes">확인</string>
+    <string name="default_no">취소</string>
+
+    <string name="activity_loading_init_msg">어플을 초기화 중입니다.\n잠시만 기다려 주세요.</string>
+
+    <string name="fragment_add_font_title">새로운 폰트를 추가해보세요!</string>
+    <string name="fragment_add_font_sub1">언젠가 보았던 예쁜 폰트, PC에 다운받아 두신 혹은 작업하셨던 폰트를 추가하여 사용하실 수 있습니다. </string>
+    <string name="fragment_add_font_sub2"> ※ 이렇게 추가한 폰트는 자기 자신만 볼 수 있습니다.</string>
+    <string name="fragment_add_font_sub3"> ※ 지적재산권 존중을 위해 구매한 폰트가 아닌경우에 타인에게 공유/불법적인 재배포는 하지 말아주세요.</string>
+    <string name="fragment_add_font_find">찾아보기</string>
+    <string name="fragment_add_font_filename">폰트 파일명</string>
+    <string name="fragment_add_font_submit"> 이렇게 추가할래요 </string>
+    <string name="fragment_add_font_cancel"> 나중에 추가할게요 </string>
+
+    <string name="fragment_set_color_title">색상을 선택해주세요.</string>
+    <string name="fragment_set_color_sub1">Alpha</string>
+    <string name="fragment_set_color_sub2">Red</string>
+    <string name="fragment_set_color_sub3">Green</string>
+    <string name="fragment_set_color_sub4">Blue</string>
+
+    <string name="fragment_set_font_title">폰트를 선택해주세요.</string>
+    <string name="fragment_set_img_title">배경을 선택해주세요.</string>
+    <string name="fragment_set_size_title">크기를 선택해주세요.</string>
+    <string name="fragment_set_font_hint">쓰고 싶은 문장, 혹은 멋진 글귀를 적어주세요.</string>
+    <string name="fragment_set_text_title">텍스트를 입력해주세요.\n(만들고 난 이후에도 수정이 가능합니다.)</string>
+    <string name="fragment_app_info_title">어플 정보</string>
+    <string name="fragment_app_info_sub1">어플명</string>
+    <string name="fragment_app_info_sub2">어플버전</string>
+    <string name="fragment_app_info_sub3">개발/디자인</string>
+    <string name="fragment_app_info_sub4">개발기간</string>
+
+    <string name="fragment_loading_say">잠시만 기다려 주세요!</string>
+    <string name="fragment_loading_tooltip">알고 계셨나요? 현재 개발자는 무직입니다. 부득이하게 광고를 추가한 점 너그러이 이해해주시길 바랍니다.</string>
+
+    <string-array name="list_tooltips">
+        <item>알고 계셨나요? 현재 개발자는 무직입니다. 부득이하게 광고를 추가한 점 너그러이 이해해주시길 바랍니다.</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
